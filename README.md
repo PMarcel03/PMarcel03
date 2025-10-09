@@ -43,7 +43,7 @@ Frontend/Web
 
 React, CRUD Functionality, Aesthetically Appealing Design, Accessibility (Appropriate Contrast, Web Design)
 
-Backend/DevOps
+Backend
 	
 
 C# Console/GUI Apps, Python TCP Socket Listeners, Information Storage/Input-Based Calculations
