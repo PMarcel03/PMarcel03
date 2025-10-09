@@ -19,7 +19,7 @@ A foundational project where I am diving deep into networking and operating syst
 
 A full-stack application designed to aggregate event data using modern web technologies.
 
-    Stack: MERN (MongoDB, Express, React, Node.js)
+    Stack: MERN (MongoDB, Express, Vue, Node.js)
 
     Features: Utilizes a custom web scraper to gather real-time event data, stores it in MongoDB, and serves a dynamic, accessible Vue frontend.
 
