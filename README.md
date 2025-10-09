@@ -15,13 +15,13 @@ A foundational project where I am diving deep into networking and operating syst
 
     Tech Focus: Python (for TCP Socket Listeners)
 
-2. MERN Stack Event Finder App
+2. MEVN Stack Event Finder App
 
 A full-stack application designed to aggregate event data using modern web technologies.
 
     Stack: MERN (MongoDB, Express, React, Node.js)
 
-    Features: Utilizes a custom web scraper to gather real-time event data, stores it in MongoDB, and serves a dynamic, accessible React frontend.
+    Features: Utilizes a custom web scraper to gather real-time event data, stores it in MongoDB, and serves a dynamic, accessible Vue frontend.
 
     Focus: CRUD functionality, data modeling, cross-referencing for information retrieval, and building aesthetically appealing user interfaces.
 
