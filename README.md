@@ -4,8 +4,6 @@ Hi, I'm Marcel Prakash 👋
 I'm a passionate 3rd-year Software Engineering student at Toi Ohomai Institute of Technology, focused on building robust, scalable applications from the network layer up to the user interface. I love tackling complex backend challenges and delivering projects with a strong emphasis on aesthetic appeal and accessibility.
 
 🚀 Current Focus & Key Projects
-
-My current work centers around two major engineering challenges:
 1. HTTP Web Server
 
 A foundational project where I am diving deep into networking and operating system concepts.
