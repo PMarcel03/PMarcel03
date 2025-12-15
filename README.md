@@ -34,7 +34,7 @@ Skills & Tools
 Languages
 	
 
-Python, C-Sharp, React (JSX), PHP, SQL, HTML, CSS
+JavaScript, Python, C-Sharp, React (JSX), PHP, SQL, HTML, CSS
 
 Frontend/Web
 	
