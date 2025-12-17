@@ -113,15 +113,6 @@ I'm actively seeking opportunities where I can:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PMarcel03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMarcel03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
-</div>
-
----
-
 ## Get In Touch
 
 I'm always open to discussing new opportunities, collaborations, or interesting technical challenges!
