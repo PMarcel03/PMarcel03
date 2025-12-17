@@ -44,7 +44,7 @@ A full-stack application designed to aggregate event data using modern web techn
 
 ---
 
-## Technical Toolbox
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technical Toolbox
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -113,7 +113,7 @@ I'm actively seeking opportunities where I can:
 
 ---
 
-## GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PMarcel03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
