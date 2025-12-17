@@ -21,7 +21,7 @@ My approach combines deep technical knowledge (low-level networking, data struct
 
 ---
 
-## Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
 ### HTTP Web Server
 A foundational project diving deep into networking and operating system concepts.
