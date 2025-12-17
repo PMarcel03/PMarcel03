@@ -123,5 +123,5 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 ---
 
 <div align="center">
-  <i> Fun fact: I believe the best code is written with both performance and aesthetics in mind!</i>
+  
 </div>
