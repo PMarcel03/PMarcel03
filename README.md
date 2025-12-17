@@ -1,4 +1,4 @@
-# Hi, I'm Marcel Prakash 👋
+<h1 align="center"> Hi, I'm Marcel Prakash <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
 
 <div align="center">
   
