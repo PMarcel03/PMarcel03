@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Full-Stack Developer | Software Engineering Graduate
+  ### Full-Stack Developer | Software Engineering Graduate
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-prakash-85292a329/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Prakashmarcel@gmail.com)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate 3rd-year Software Engineering graduate at **Toi Ohomai Institute of Technology**, specializing in **full-stack web development** with a strong backend foundation. I build robust, scalable applications from database to UI, with a focus on **clean architecture**, **performance**, and **user experience**.
 
@@ -21,9 +21,9 @@ My approach combines deep technical knowledge (low-level networking, data struct
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🌐 HTTP Web Server
+### HTTP Web Server
 A foundational project diving deep into networking and operating system concepts.
 
 - **Challenge:** Implementing core HTTP request handling, routing, and concurrent client connections without relying on high-level frameworks
@@ -31,7 +31,7 @@ A foundational project diving deep into networking and operating system concepts
 - **Tech Stack:** Python (TCP Socket Listeners)
 - **Learning Focus:** Low-level networking, concurrent programming, HTTP protocol implementation
 
-### 🎉 MEVN Stack Event Finder App
+### MEVN Stack Event Finder App
 A full-stack application designed to aggregate event data using modern web technologies.
 
 - **Stack:** MongoDB, Express.js, Vue.js, Node.js (MEVN)
@@ -44,7 +44,7 @@ A full-stack application designed to aggregate event data using modern web techn
 
 ---
 
-## 🛠️ Technical Toolbox
+## Technical Toolbox
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -94,7 +94,7 @@ A full-stack application designed to aggregate event data using modern web techn
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Software Engineering (Level 7)**  
 Toi Ohomai Institute of Technology  
@@ -102,7 +102,7 @@ Toi Ohomai Institute of Technology
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 I'm actively seeking opportunities where I can:
 - Build **full-stack web applications** with modern technologies
@@ -113,7 +113,7 @@ I'm actively seeking opportunities where I can:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PMarcel03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
@@ -122,15 +122,15 @@ I'm actively seeking opportunities where I can:
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 I'm always open to discussing new opportunities, collaborations, or interesting technical challenges!
 
-- 📧 **Email:** [Prakashmarcel@gmail.com](mailto:Prakashmarcel@gmail.com)
-- 💼 **LinkedIn:** [Marcel Prakash](https://www.linkedin.com/in/marcel-prakash-85292a329/)
+-  **Email:** [Prakashmarcel@gmail.com](mailto:Prakashmarcel@gmail.com)
+-  **LinkedIn:** [Marcel Prakash](https://www.linkedin.com/in/marcel-prakash-85292a329/)
 
 ---
 
 <div align="center">
-  <i>⚡ Fun fact: I believe the best code is written with both performance and aesthetics in mind!</i>
+  <i> Fun fact: I believe the best code is written with both performance and aesthetics in mind!</i>
 </div>
